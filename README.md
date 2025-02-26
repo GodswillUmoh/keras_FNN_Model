@@ -2,7 +2,7 @@
 This project uses a feedforward neural network (FNN) to classify iris flowers based on petal and sepal measurements. It's a great beginner-friendly example for working with tabular data.
 
 ## About The Dataset
-> he Iris dataset contains 150 samples of iris flowers, categorized into 3 species:
+> The Iris dataset contains 150 samples of iris flowers, categorized into 3 species:
 + Setosa
 + Versicolor
 + Virginica
